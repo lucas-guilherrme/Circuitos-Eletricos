@@ -21,6 +21,8 @@ Diferente dos circuitos residenciais, o ambiente automotivo é hostil e exige al
 2.  **Rede de Comunicação (CAN Bus):** Os componentes modernos não apenas recebem energia, mas conversam entre si. Sensores e atuadores trocam dados binários através de um par de fios trançados, permitindo diagnósticos avançados e controle preciso.
 3.  **Alternador e Retificação:** A energia mecânica do motor é convertida em elétrica (AC) e imediatamente retificada para DC para carregar a bateria e alimentar o sistema enquanto o veículo roda.
 
+<img width="750" height="454" alt="Carro eletrico-Photoroom" src="https://github.com/user-attachments/assets/f8254d34-28b3-4ebf-81af-efafe1361827" />
+
 ---
 
 ## 🔋 Sistemas de Armazenamento de Energia (ESS)
@@ -32,3 +34,5 @@ O armazenamento de energia é o coração da mobilidade elétrica e sistemas hí
     * **Monitoramento:** Leitura constante de Tensão, Corrente e Temperatura de cada célula.
     * **Balanceamento:** Garante que todas as células carreguem e descarreguem na mesma taxa, maximizando a vida útil.
     * **Proteção (SOA - Safe Operating Area):** Desconecta o sistema em caso de sobretensão, subtensão ou superaquecimento para evitar falhas catastróficas.
+
+<img width="1000" height="667" alt="Battery-Energy-Storage-System-Photoroom" src="https://github.com/user-attachments/assets/ba7be9c1-fa38-4d1e-afb3-207a30c6d88c" />
