@@ -36,6 +36,8 @@ Com os valores dado na tabela abaixo temos:
 
 Teremos os seguintes resultados mostrados nos graficos abaixo
 
+![Tensões do circuito](assets/Tensão.png)
+
 <img width="1366" height="703" alt="Tensão" src="https://github.com/user-attachments/assets/cfffbd32-4889-4854-8cc0-122406b2a04e" />
 
 <img width="1000" height="600" alt="Corrente" src="https://github.com/user-attachments/assets/3aeb4d2b-27b3-4a61-a35e-70c1c93f6c0d" />
